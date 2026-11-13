@@ -61,6 +61,6 @@ Improved fork of the popular snapshot testing library with better visual debuggi
 Lightweight and flexible routing solution for SwiftUI applications.
 
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ambientphantom&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ambientphantom&layout=compact&theme=radical)
+<!-- ### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.shion.dev/api?username=ambientphantom&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=ambientphantom&layout=compact&theme=radical) -->
